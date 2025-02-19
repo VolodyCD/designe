@@ -99,7 +99,9 @@ text-transform: uppercase;
    font-weight: 500;
 }
 
-.header-btn:hover{
+.header-btn:hover,
+.form_btn:hover,
+.arrow:hover {
    background-color: #ae7773;
    color: aliceblue;
 }
